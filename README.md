@@ -1,2 +1,2 @@
-# ECR-1264_Tester
-It's ECR-1264 Library and Utility
+# ECR_1264_Utility
+It's ECR-1264 Library and Utility program for C#
